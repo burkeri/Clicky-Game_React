@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "style": "#cbffc7",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "style": "#b9fbb4",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "style": "#a8f7a2",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "style": "#97f390",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "style": "#86f07e",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "style": "#75ec6c",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "style": "#63e85a",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "style": "#52e448",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "style": "#41e136",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "style": "#30dd24",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "style": "#1fd912",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "style": "#0ed600",
+      "clicked": false
+    }
+]
+  
