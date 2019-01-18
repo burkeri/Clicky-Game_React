@@ -146,7 +146,7 @@ class App extends Component {
   handleClick = (id, arr) => {
     this.scoreCounter(id);
     this.changeClicked(id);
-    // this.shuffleColours(arr);
+    this.shuffleColours(arr);
   }
 
   render() {
