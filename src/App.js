@@ -39,7 +39,7 @@ class App extends Component {
       this.setState({
         ins: "You lost. Play again?",
         score: 0,
-        lives: 20,
+        lives: 50,
         array: this.state.orange
       })
     break;
@@ -93,7 +93,7 @@ class App extends Component {
       this.setState({
         ins: "You won! Play again?",
         score: 0,
-        lives: 20,
+        lives: 50,
         array: this.state.orange
       })
 
